@@ -18,7 +18,7 @@ Sou uma pessoa movida pela curiosidade e me animo ao aprender coisas novas e ent
 - Projetos acadêmicos e pessoais com foco em automação e organização de dados
 
 🌱 Conhecimentos adquiridos:
-- Java <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
+- Java 
 - Python
 - HTML, CSS e JavaScript
 - Excel intermediario + VBA
