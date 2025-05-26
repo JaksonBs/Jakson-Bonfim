@@ -26,5 +26,5 @@ Sou uma pessoa movida pela curiosidade e me animo ao aprender coisas novas e ent
 - Organização e produtividade pessoal
 
 📬 Contato:
-- ✉️ E-mail: [jaksonbs@outlook.com]
-- 💼 LinkedIn: [linkedin.com/in/jaksonbonfim]
+- ✉️ E-mail: jaksonbs@outlook.com
+- 💼 LinkedIn: [linkedin.com/in/jaksonbonfim](https://www.linkedin.com/in/jaksonbonfim/)
